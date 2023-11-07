@@ -137,6 +137,17 @@ h2 {
         font-size: $icon-size;
       }
 
+      img {
+        width: 50px;
+        border-radius: 50%;
+        border: 2px solid #fff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 600;
+        font-size: 32px;
+      }
+
       &:before {
         content: "";
         width: 2px;

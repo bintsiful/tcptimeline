@@ -115,6 +115,16 @@ h2 {
 .timelinehz__event__icon span {
   font-size: 32px;
 }
+.timelinehz__event__icon img {
+  width: 50px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 32px;
+}
 .timelinehz__event__icon:before {
   content: "";
   width: 2px;

@@ -1,6 +1,6 @@
-# Oracle APEX Vertical Timeline Plugin
+# Oracle APEX Events Timeline Plugin
 
-Great timeline plugin with menu
+Minimal events timeline sequencing tim
 
 ## Installation
 
@@ -65,7 +65,7 @@ from dual
 
 ## Preview
 
-![Preview](assets/plugin_preview.jpg)
+![Preview](assets/plugin_preview.gif)![Preview](assets/plugin_preview2.gif)
 
 ## Demo
 

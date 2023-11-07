@@ -59,11 +59,21 @@ h2 {
   padding: 20px;
 }
 .timelinevt__event__icon span {
-  position: absolute;
+  /*  position: absolute;
   top: 42%;
   left: -165px;
   font-size: 2.5rem;
+  transform: translateY(-50%); */
+  font-size: 2.5rem;
   transform: translateY(-50%);
+  top: 45%;
+  left: -47%;
+}
+.timelinevt__event__icon img {
+  width: 50px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  transform: translateX(-140px);
 }
 .timelinevt__event__description {
   flex-basis: 60%;
@@ -134,5 +144,9 @@ h2 {
   }
   .timelinevt__event__icon {
     border-radius: 4px 4px 0 0;
+  }
+  .timelinevt__event__icon span {
+    bottom: -89px;
+    left: -45%;
   }
 }/*# sourceMappingURL=tcptimeline_vt.css.map */
