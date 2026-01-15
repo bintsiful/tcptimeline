@@ -4,7 +4,7 @@ Minimal events timeline sequencing tim
 
 ## Installation
 
-Import _template_component_plugin_com_rodrigomesquita_vertical_timeline.sql_ file into your application.
+Import _template_component_plugin_com_tcp_timeline.sql_ file into your application.
 
 ## Usage
 
